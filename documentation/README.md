@@ -3,4 +3,4 @@
 Will use for larger change updates and timeline.
 
 #Formulas & New Ideas
-- DH<sub>shoulder</sub>
+- D<sub>shoulder</sub> = D<sub>tubeID</sub> - 2C
