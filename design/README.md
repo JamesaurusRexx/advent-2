@@ -1,14 +1,6 @@
-# Design
+# Advent 2
 
-Use this folder for system-level requirements, concepts, interfaces, and major design decisions.
+The second rocket in the Advent series. 
 
-Suggested contents:
-
-- mission and success criteria
-- vehicle dimensions and target mass
-- subsystem interface drawings
-- center-of-gravity and stability requirements
-- design reviews and decision records
-- revision-controlled CAD exports or links to source files
-
-For each decision, record the date, alternatives considered, reasoning, and affected subsystems.
+## Current Status
+Working on the first steps on the design. I am using OpenRocket to get a good estimate for dimensions and mass. I have decided on a D-class engine (likely the Estes D12-3's).
