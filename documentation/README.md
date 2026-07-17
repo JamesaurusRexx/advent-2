@@ -12,4 +12,4 @@ With major redesigns, the current loaded mass of the rocket is 505g. At first, t
 
 At this point, I could either make the rocket light and buy an Estes F-class engine and longer launch rail, or buy a much more powerful engine and use a club's launch rail. Both options are expensive, and I don't know if either will work.
 
-![test](images/OpenRocket%201.png)
+![The first iteration of the Advent 2](images/OpenRocket%201.png)
