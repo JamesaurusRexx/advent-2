@@ -7,6 +7,6 @@ Working on the first steps on the design. I am using OpenRocket to get a good es
 
 ## Project map
 
-- [Design](design/README.md) — CAD modeling, dimensioning, propulsion, Arduino, printing
-- [Flight data](flight-data/README.md) — TBD
-- [Documentation](documentation/README.md) — Checklists, developments, overviews
+- [Design](design/README.md) - CAD modeling, dimensioning, propulsion, Arduino, printing
+- [Flight data](flight-data/README.md) - TBD
+- [Documentation](documentation/README.md) - Checklists, developments, overviews
