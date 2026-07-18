@@ -15,3 +15,5 @@ At this point, I could either make the rocket light and buy an Estes F-class eng
 ![The first iteration of the Advent 2](images/OpenRocket%201.png)
 Above is the most effective design I could create without a majority of the physical components. I expect to slowly develop a more precise and effective design as the parts ship in and allow me to measure exact mass. Below is the full OpenRocket simulation data (assuming ~65g for the avionics, which is a guesstimate).
 ![OpenRocket Data](images/OpenRocket%202.png)
+
+As I wait for each part to arrive, the next goal is to finish the coding and complete the avionics sled. This includes the physical components of the Arduino board and sled, along with the code to be fed into the board prior to the first launches. The Advent 2 will include an accelerometer, barometer, and an SD card for data storage. The goal of these instruments is to create functional data from the launch.
