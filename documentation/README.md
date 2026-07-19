@@ -16,7 +16,7 @@ As I switch between coding, modeling, and OpenRocket simulations, I notice my di
 The Rocket has now been mostly modeled. It is currently missing the avionics sled and rail system and centering rings. I've also settled on a design for the paint scheme. Tommorow, I'll solder and start coding. I had originally intended to code today, but it looks like I need to solder to start doing that. As the components come in, I'll start making my first attempts at designing the avionics sled and merge that into my prototype design for the Advent 2. Looking back at the previous design, the 45mm design was much better for flying, but I still have worries about fitting the avionics. For now, I'll wait to design the sled, then fit the rocket around it. if I can go back to the 45mm design, that's great, but it won't be the end of the world to use the 50mm one.
 
 ![Onshape Prototype](images/Prototype%201.png)
-![KSP Model](images/KSP%20Advent.png)
+![KSP Model](images/KSP%20Advent)
 
 
 
