@@ -2,12 +2,20 @@
 
 Will use for larger change updates and timeline.
 
-# Formulas & New Ideas
+# Formulas
 - D<sub>shoulder</sub> = D<sub>tubeID</sub> - 2C (where C is the clearance)
 
 # Primary Timeline
 
 (7/18/26) - Before I begin soldering, I need to think about how I'm going to design the avionics sled. This is my first time designing an avionics system, so I'll need to be careful as to not make it too big or small, for example. It needs to be lightweight and easy to take in and out, since I'll likely be tinkering for a bit longer than experienced rocketeers. 
+
+I've began modeling the prototype rocket, starting with the nose cone. Since this rocket will contain a designated avionics bay, a bulkhead will need to be placed to seperate the hot gases from the delicate electronics and also provide a place for force to push the upper part of the rocket off. I spent a while thinking about the connection for the nylon/kevlar to both the upper and lower stages of the rocket. To ensure the parachute ejects cleanly, it seems like the best solution is to design the top centering ring to be thicker and include two holes for the kevlar to attach to, then connect the linked nylon into a crossbar without holes right below the top bulkhead. This setup ensures almost nothing is in the way of the gas and makes it a bit easier for me to secure the shock cord.
+
+As I switch between coding, modeling, and OpenRocket simulations, I notice my diameter being too small for a comfortably fitting avionics sled. It's probable that the completed sled would fit, but I want some extra room since this is my first time making an avionics-fitted rocket. The diameter is now 50mm, which adds mass but also forces the optimum delay to be closer to the E30-7T's charge delay, and slows down the chute deployment speed.
+
+The Rocket has now been mostly modeled. It is currently missing the avionics sled and rail system and centering rings. I've also settled on a design for the paint scheme. Tommorow, I'll solder and start coding. I had originally intended to code today, but it looks like I need to solder to start doing that. As the components come in, I'll start making my first attempts at designing the avionics sled and merge that into my prototype design for the Advent 2.
+
+
 
 #
 
