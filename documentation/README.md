@@ -13,7 +13,7 @@ I've began modeling the prototype rocket, starting with the nose cone. Since thi
 
 As I switch between coding, modeling, and OpenRocket simulations, I notice my diameter being too small for a comfortably fitting avionics sled. It's probable that the completed sled would fit, but I want some extra room since this is my first time making an avionics-fitted rocket. The diameter is now 50mm, which adds mass but also forces the optimum delay to be closer to the E30-7T's charge delay, and slows down the chute deployment speed.
 
-The Rocket has now been mostly modeled. It is currently missing the avionics sled and rail system and centering rings. I've also settled on a design for the paint scheme. Tommorow, I'll solder and start coding. I had originally intended to code today, but it looks like I need to solder to start doing that. As the components come in, I'll start making my first attempts at designing the avionics sled and merge that into my prototype design for the Advent 2.
+The Rocket has now been mostly modeled. It is currently missing the avionics sled and rail system and centering rings. I've also settled on a design for the paint scheme. Tommorow, I'll solder and start coding. I had originally intended to code today, but it looks like I need to solder to start doing that. As the components come in, I'll start making my first attempts at designing the avionics sled and merge that into my prototype design for the Advent 2. Looking back at the previous design, the 45mm design was much better for flying, but I still have worries about fitting the avionics. For now, I'll wait to design the sled, then fit the rocket around it. if I can go back to the 45mm design, that's great, but it won't be the end of the world to use the 50mm one.
 
 
 
