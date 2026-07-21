@@ -7,6 +7,19 @@ Will use for larger change updates and timeline.
 
 # Primary Timeline
 
+(7/20/26) - So far, I've hooked up the barometer and accelerometer to a breadboard and have gotten data. The format output by the serial monitor should be easily feed into the SD card which I am now working on setting up. After hooking up all three parts, the Nano now outputs data from the accelerometer and barometer, along with verifying the microSD's installation. Now when I input the sensor code, pause, and switch it to the read code, it'll dispense data from the microSD. This includes time, pressure, temperature, degrees/s, and average G-force. I will publish the final design with soldering on the perfboard once that is completed (it's a mess of wires right now).
+
+Now for the avionics sled. The main issue is balancing it's weight and the stability of  the rocket itself. I have purposefully waited to print the bottom of the body tube because I'll need to change the shape of the fins. I'm starting the nose cone print now.
+
+The nose cone came out well, but sanding will be needed as usual. To finish up today, I'm starting some sketches for the avionics bay and messing with some of the 3D models to fit the OpenRocket design. The perfboard comes over night, so I should be able to finish the entire avionics bay and have (hopefully) most of the rocket printed by tomorrow night.
+
+
+#
+
+(7/19/26) - I soldered both the BMP280 (barometer) and MPU6050 and began running tests on Arduino IDE. The barometer successfully output data, specifically on temperature, altitude, and pressure, taking an average of all. I'll have to buy perfboard to solder all the components together, but it seems like that is the last material I'll need.
+
+#
+
 (7/18/26) - Before I begin soldering, I need to think about how I'm going to design the avionics sled. This is my first time designing an avionics system, so I'll need to be careful as to not make it too big or small, for example. It needs to be lightweight and easy to take in and out, since I'll likely be tinkering for a bit longer than experienced rocketeers. 
 
 I've began modeling the prototype rocket, starting with the nose cone. Since this rocket will contain a designated avionics bay, a bulkhead will need to be placed to seperate the hot gases from the delicate electronics and also provide a place for force to push the upper part of the rocket off. I spent a while thinking about the connection for the nylon/kevlar to both the upper and lower stages of the rocket. To ensure the parachute ejects cleanly, it seems like the best solution is to design the top centering ring to be thicker and include two holes for the kevlar to attach to, then connect the linked nylon into a crossbar without holes right below the top bulkhead. This setup ensures almost nothing is in the way of the gas and makes it a bit easier for me to secure the shock cord.
