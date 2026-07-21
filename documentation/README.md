@@ -9,6 +9,8 @@ Will use for larger change updates and timeline.
 
 (7/21/26) - I've reached the biggest milestone so far, battery-powered data collection. Now the entire circuit (pre-soldered) will collect data as soon as the battery is turned on, completely seperate from the computer. I've decided the next step is to get the circuit working with a perfboard, which I can then build around for the sled.
 
+The perfboard is now fully soldered and connects the barometer and accelerometer to the Nano. Now I need to design the avionics sled (with plenty of holes and connection points) and finish the soldering of the microSD adapter and battery.
+
 #
 
 (7/20/26) - So far, I've hooked up the barometer and accelerometer to a breadboard and have gotten data. The format output by the serial monitor should be easily feed into the SD card which I am now working on setting up. After hooking up all three parts, the Nano now outputs data from the accelerometer and barometer, along with verifying the microSD's installation. Now when I input the sensor code, pause, and switch it to the read code, it'll dispense data from the microSD. This includes time, pressure, temperature, degrees/s, and average G-force. I will publish the final design with soldering on the perfboard once that is completed (it's a mess of wires right now).
