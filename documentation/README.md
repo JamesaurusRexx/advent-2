@@ -11,6 +11,8 @@ Will use for larger change updates and timeline.
 
 The perfboard is now fully soldered and connects the barometer and accelerometer to the Nano. Now I need to design the avionics sled (with plenty of holes and connection points) and finish the soldering of the microSD adapter and battery.
 
+After having some issues printing the sled, I've decided it might be worth the risk to make the rocket wider and rework my rail system. Originally, the sides of the sled would slot into rails on the sides on the inner avionics bay, but this doesn't seem realistic anymore. The rails are simply too small to have an effect, and the current sled is much too flimsy to create tension for security. I'll need to rework the design for the sled.
+
 #
 
 (7/20/26) - So far, I've hooked up the barometer and accelerometer to a breadboard and have gotten data. The format output by the serial monitor should be easily feed into the SD card which I am now working on setting up. After hooking up all three parts, the Nano now outputs data from the accelerometer and barometer, along with verifying the microSD's installation. Now when I input the sensor code, pause, and switch it to the read code, it'll dispense data from the microSD. This includes time, pressure, temperature, degrees/s, and average G-force. I will publish the final design with soldering on the perfboard once that is completed (it's a mess of wires right now).
