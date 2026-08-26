@@ -2,10 +2,12 @@
 
 Will use for larger change updates and timeline.
 
-# Formulas
-- D<sub>shoulder</sub> = D<sub>tubeID</sub> - 2C (where C is the clearance)
 
 # Primary Timeline
+
+(8/25/26) - After careful consideration, I find it best to reserve Advent 3 as the first flight with avionics. An avionics bay is possible, but would be flimsy, risky to launch, and unstable. A larger diameter rocket is needed, and so is a bigger engine. I have received the E30-7T's, meaning I must still keep the Advent 2's design. It is now much shorter (~70cm), and will serve as an up-scaled Advent 1. As I begin to model the new Advent 2 in Onshape, I will research the proper engine for a much larger, heavier rocket.
+
+#
 
 (7/21/26) - I've reached the biggest milestone so far, battery-powered data collection. Now the entire circuit (pre-soldered) will collect data as soon as the battery is turned on, completely seperate from the computer. I've decided the next step is to get the circuit working with a perfboard, which I can then build around for the sled.
 
