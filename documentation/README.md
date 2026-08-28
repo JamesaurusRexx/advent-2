@@ -8,6 +8,7 @@ Will use for larger change updates and timeline.
 (8/27/26) - I've finished modeling the Advent 2 in OpenRocket and am now designing it in OnShape. Most of the work is changing the sizes of the body tubes and determining the right setup for the launch buttons.
 
 I specifically need to look at my launch buttons and see what screw they use to model into OnShape. After that, It'll be printing, painting, and final construction.
+(Also need to quickly reshape fins to match stability on OpenRocket!)
 
 #
 
