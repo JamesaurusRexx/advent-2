@@ -5,7 +5,15 @@ Will use for larger change updates and timeline.
 
 # Primary Timeline
 
+(8/27/26) - I've finished modeling the Advent 2 in OpenRocket and am now designing it in OnShape. Most of the work is changing the sizes of the body tubes and determining the right setup for the launch buttons.
+
+I specifically need to look at my launch buttons and see what screw they use to model into OnShape. After that, It'll be printing, painting, and final construction.
+
+#
+
 (8/25/26) - After careful consideration, I find it best to reserve Advent 3 as the first flight with avionics. An avionics bay is possible, but would be flimsy, risky to launch, and unstable. A larger diameter rocket is needed, and so is a bigger engine. I have received the E30-7T's, meaning I must still keep the Advent 2's design. It is now much shorter (~70cm), and will serve as an up-scaled Advent 1. As I begin to model the new Advent 2 in Onshape, I will research the proper engine for a much larger, heavier rocket.
+
+
 
 #
 
