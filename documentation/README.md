@@ -8,9 +8,10 @@ Will use for larger change updates and timeline.
 (9/3/2026) - The final parts have arrived, so it's time to design the rest of the rocket (ugh.. finally). It's fundamentally a simple design, and the most technical part is the screw hole.
 
 All I have left is creating an anchor for the parachute and shock cord, but that can wait for another day as I am printing the top avionics bay last. The boss for the screws is modeled around the actual set of 1010 rail buttons I have, and I can epoxy the rest of the screw that sticks out on the inside to secure it. Below are finalized pictures from both OpenRocket and OnShape (featuring newly designed fins!): 
+
 ![Lower Body Tube](images/Advent2%20LBT1.png)
 ![](images/Advent2%20LBT2.png)
-![](images/Advent2%20LBT3.pmg)
+![](images/Advent2%20LBT3.png)
 ![Final OpenRocket Model](images/Advent2%20OpenRocket.png) 
 
 #
