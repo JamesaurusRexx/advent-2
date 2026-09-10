@@ -1,6 +1,6 @@
 # Documentation
 
-Will use for larger change updates and timeline.
+Timeline, updates, building, pictures, everything.
 
 
 # Primary Timeline
