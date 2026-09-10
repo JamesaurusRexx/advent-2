@@ -5,6 +5,12 @@ Will use for larger change updates and timeline.
 
 # Primary Timeline
 
+(9/9/2026) - I realized too late that I never made a proper mechanism for shock cord and nose connection, so I need to redesign and reprint the nose cone to have a cross bar. I simply added a 4.5mm thick crossbar above the shoulder, and I'll print that once my printer decides to start taking filament in again. This is finally the last bit of 3D modeling for the Advent 2! I realize I make and break a lot of promises in these documentation logs; I'll work on that. Here's the redesigned nose cone:
+
+![Advent 2 Final Nose Cone](images/Advent2%20NC.png)
+
+#
+
 (9/3/2026) - The final parts have arrived, so it's time to design the rest of the rocket (ugh.. finally). It's fundamentally a simple design, and the most technical part is the screw hole.
 
 All I have left is creating an anchor for the parachute and shock cord, but that can wait for another day as I am printing the top avionics bay last. The boss for the screws is modeled around the actual set of 1010 rail buttons I have, and I can epoxy the rest of the screw that sticks out on the inside to secure it. Below are finalized pictures from both OpenRocket and OnShape (featuring newly designed fins!): 
