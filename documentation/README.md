@@ -6,9 +6,9 @@ Timeline, updates, building, pictures, everything.
 # Primary Timeline
 
 (9/16/2026) - The rocket is fully printed and ready to sand, paint, then assemble for flight. I had to reprint the upper body tube since a fillet made the lower body tube connect with a gap. This entire process took longer than expected, but it has built up my 3D printing skills.
-![1](images/IMG_0947.HEIC)
-![2](images/IMG_0948.HEIC)
-![3](images/IMG_0949.HEIC)
+![1](images/IMG_0947.png)
+![2](images/IMG_0948.png)
+![3](images/IMG_0949.png)
 
 #
 
