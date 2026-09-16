@@ -5,6 +5,13 @@ Timeline, updates, building, pictures, everything.
 
 # Primary Timeline
 
+(9/16/2026) - The rocket is fully printed and ready to sand, paint, then assemble for flight. I had to reprint the upper body tube since a fillet made the lower body tube connect with a gap. This entire process took longer than expected, but it has built up my 3D printing skills.
+![1](images/IMG_0947.HEIC)
+![2](images/IMG_0948.HEIC)
+![3](images/IMG_0949.HEIC)
+
+#
+
 (9/9/2026) - I realized too late that I never made a proper mechanism for shock cord and nose connection, so I need to redesign and reprint the nose cone to have a cross bar. I simply added a 4.5mm thick crossbar above the shoulder, and I'll print that once my printer decides to start taking filament in again. This is finally the last bit of 3D modeling for the Advent 2! I realize I make and break a lot of promises in these documentation logs; I'll work on that. With that the next step should be exclusively printing. I'm gonna need to start designing the Advent 3 pretty soon. That might end up being a financial problem. Here's the redesigned nose cone:
 
 ![Advent 2 Final Nose Cone](images/Advent2%20NC.png)
