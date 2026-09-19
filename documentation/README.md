@@ -5,6 +5,19 @@ Timeline, updates, building, pictures, everything.
 
 # Primary Timeline
 
+(9/19/2026) - Since the E30-7t engine doesn't really use the same motor mount as the old Estes rockets I've put together, I need a better solution for engine retaining. My first (and probably last idea) is to use friction. The only real issue this solves is the engine slipping out after its full burn, so a tight friction fit should be sufficient. After testing this by applying masking tape to the side of the engine and slipping it into the motor mount, I realize this is a surprisingly efficient design. Right before the launch, I tape it up, put it in, and then go. 
+
+The entire engine assembly will be similar to the Advent 1 (and honestly most rockets like this, its just basic physics). Since I've already retrofitted the engine into the motor tube, the only thing remaining is epoxying the motor tube to the centering rings, and then that entire assembly to the lower body tube itself. It's important to note that the design of the E30-7t makes a front stop unnecessary; The acceleration vector inwards won't risk the engine itself shifting since there is a little ledge the motor tube latches on to. As I am writing this, I'm reprinting a new set of centering rings to match the outer diameter of the motor tube more accurately, since the printer has a tendency to make things bigger for some reason (?). For clarity, the rest of the Advent's 2 development will be:
+
+1. Construct the engine assembly and insert into the lower body tube.
+2. Install recovery system into nose and through centering rings.
+3. Completely sand body, nose, fins, etc.
+4. Screw in 1010 rail buttons.
+5. Prime, paint, and finish all components (plus add lettering).
+6. Epoxy lower-upper and upper-top body tubes.
+
+#
+
 (9/16/2026) - The rocket is fully printed and ready to sand, paint, then assemble for flight. I had to reprint the upper body tube since a fillet made the lower body tube connect with a gap. This entire process took longer than expected, but it has built up my 3D printing skills.
 ![1](images/IMG_0947.png)
 ![2](images/IMG_0948.png)
