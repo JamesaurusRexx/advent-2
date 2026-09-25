@@ -5,6 +5,21 @@ Timeline, updates, building, pictures, everything.
 
 # Primary Timeline
 
+(9/24/2026) - I can confidently say the rocket is ready to fly! Well, mechanically, basically. I have sanded the (entire, ugh) thing, but haven't primed or painted it. I doubt I'll have trouble doing either, and I'm sure waiting for the rocket to dry will suck.
+
+Since last time, I've: printed updated centering rings, epoxied them onto the motor tube, installed the entire engine assembly, sanded the rocket, and installed the recovery system. For context, the recovery system needed to be installed before I epoxy all the body tubes together. It was pretty simple; Kevlar -> nylon, with the nylon being around 1.8m or so in length. This connects to a fish hook connector that holds the chute to the nylon and finally is tied to the crossbar inside of the nosecone. 
+
+ALL that is left is: priming the rocket, painting, adding letters, and then epoxying everything together. Work on the Advent 3 will start very soon. 
+
+(Advent 3 goals)
+- Much larger, faster, and more capable rocket
+- G-class motor
+- Avionics: barometer, thermometer, accelerometer, SD data logger, battery (already soldered, needs conversion for Advent 3)
+- Potentially a camera!
+- Automatic and electronic chute deployment (need to find G-class plugged motor, so this is a maybe)
+
+#
+
 (9/19/2026) - Since the E30-7t engine doesn't really use the same motor mount as the old Estes rockets I've put together, I need a better solution for engine retaining. My first (and probably last idea) is to use friction. The only real issue this solves is the engine slipping out after its full burn, so a tight friction fit should be sufficient. After testing this by applying masking tape to the side of the engine and slipping it into the motor mount, I realize this is a surprisingly efficient design. Right before the launch, I tape it up, put it in, and then go. 
 
 The entire engine assembly will be similar to the Advent 1 (and honestly most rockets like this, its just basic physics). Since I've already retrofitted the engine into the motor tube, the only thing remaining is epoxying the motor tube to the centering rings, and then that entire assembly to the lower body tube itself. It's important to note that the design of the E30-7t makes a front stop unnecessary; The acceleration vector inwards won't risk the engine itself shifting since there is a little ledge the motor tube latches on to. As I am writing this, I'm reprinting a new set of centering rings to match the outer diameter of the motor tube more accurately, since the printer has a tendency to make things bigger for some reason (?). For clarity, the rest of the Advent's 2 development will be:
