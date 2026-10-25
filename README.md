@@ -7,5 +7,5 @@ Working on the first steps on the design. I am using OpenRocket to get a good es
 
 ## Project map
 
-- [Flight data](flight-data/README.md) - TBD
+- [Flight data](flight-data/README.md) - Originally planned for this rocket, but will now be used on the Advent 3
 - [Documentation](documentation/README.md) - CAD modeling, dimensioning, propulsion, Arduino, printing
