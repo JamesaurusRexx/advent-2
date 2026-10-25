@@ -5,9 +5,13 @@ Timeline, updates, building, pictures, everything.
 
 # Primary Timeline
 
+(9/30/2026) - This will be the last update until the launch, since the rocket is complete. I applied primer once and painted two times, applying a lacquer after. I put some letter stickers on it, and it is now looking pretty good!
+
+#
+
 (9/24/2026) - I can confidently say the rocket is ready to fly! Well, mechanically, basically. I have sanded the (entire, ugh) thing, but haven't primed or painted it. I doubt I'll have trouble doing either, and I'm sure waiting for the rocket to dry will suck.
 
-Since last time, I've: printed updated centering rings, epoxied them onto the motor tube, installed the entire engine assembly, sanded the rocket, and installed the recovery system. For context, the recovery system needed to be installed before I epoxy all the body tubes together. It was pretty simple; Kevlar -> nylon, with the nylon being around 1.8m or so in length. This connects to a fish hook connector that holds the chute to the nylon and finally is tied to the crossbar inside of the nosecone. 
+Since last time, I've: printed updated centering rings, epoxied them onto the motor tube, installed the entire engine assembly, sanded the rocket, and installed the recovery system. For context, the recovery system needed to be installed before I epoxied all the body tubes together. It was pretty simple: Kevlar -> nylon, with the nylon being around 1.8m or so in length. This connects to a fish hook connector that holds the chute to the nylon and finally is tied to the crossbar inside of the nosecone. 
 
 ALL that is left is: priming the rocket, painting, adding letters, and then epoxying everything together. Work on the Advent 3 will start very soon. 
 
