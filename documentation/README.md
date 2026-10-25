@@ -6,6 +6,9 @@ Timeline, updates, building, pictures, everything.
 # Primary Timeline
 
 (9/30/2026) - This will be the last update until the launch, since the rocket is complete. I applied primer once and painted two times, applying a lacquer after. I put some letter stickers on it, and it is now looking pretty good!
+![](images/IMG_0974.jpeg)
+![](images/IMG_0981.jpeg)
+![](images/IMG_0986.jpeg)
 
 #
 
